@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>CI/CD Jenkins using HTTPD</title>
-    <style>
-        ul {
-            list-style-type: square;
-        }
-    </style>
-</head>
-<body>
 
 <h1>Continuous Integration and Continuous Deployment (CI/CD) with Jenkins and HTTPD</h1>
 
@@ -68,6 +57,3 @@ To enable automatic builds on changes in GitHub:
 <br>
 - Observe the changes on the website after the auto build.
 </p>
-
-</body>
-</html>
