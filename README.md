@@ -32,7 +32,7 @@ Excute the following commands<p>
 
 
    
-<ul>TO CONNECT THE JENKINS USE PUBLIC IP:8080</ul>
+<h3>TO CONNECT THE JENKINS USE PUBLIC IP:8080</h3>
 <h2>For password<h2> 
 <ul>
 <li>cat /var/lib/jenkins/secrets/initialAdminPassword</li>
@@ -50,37 +50,25 @@ CREATE USING FREE STYLE PROJECT<br>
 
 
 <ul>
-<li>yum install git -y<li>
-<li>yum install httpd -y<li>
-<li>systemctl enable httpd<li>
-<li>systemctl  start httpd<li>
-<li>systemctl status httpd<li>
-<ul>
+<li>yum install git -y</li>l
+<li>yum install httpd -y</li>
+<li>systemctl enable httpd</li>
+<li>systemctl  start httpd</li>
+<li>systemctl status httpd</li>
+</ul>
 
-*** make sure status is running 
+<h2>*** make sure status is running </h2>
 
-  
-  
-  
-AGAIN TO CONFIGURE 
- 
- 
-MAKE A BULID AGAIN 
- 
-
-For auto bulid in the change in github using POLL-SCM 
-Again go to configure and make some additions
- 
-Build again once and see any errors
- 
- 
-
-Before change in github the website looks :
- 
-
-Lets make some change in git hub code the next build will perform automatically hence the CD performed here for CI.
-  
-The auto build is done after one minute because the poll scm is * * * * * it means for  change of the code in github after one minute it reflects to the website.
-
-The change in website after auto bulid:
+<h3>AGAIN TO CONFIGURE </h3>
+<h3>MAKE A BULID AGAIN </h3>
+<h3><p>
+For auto bulid in the change in github using POLL-SCM <br>
+Again go to configure and make some additions<br>
+Build again once and see any errors<br>
+Before change in github the website looks<br>
+Lets make some change in git hub code the next build will perform automatically hence the CD performed here for CI.<br>
+The auto build is done after one minute because the poll scm is * * * * * it means for  change of the code in github after one minute it reflects to the website.<br>
+The change in website after auto bulid:<br>
+</p>
+</h3>
  
