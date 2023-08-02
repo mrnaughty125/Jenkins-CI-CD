@@ -50,7 +50,7 @@ CREATE USING FREE STYLE PROJECT<br>
 
 
 <ul>
-<li>yum install git -y</li>l
+<li>yum install git -y</li>
 <li>yum install httpd -y</li>
 <li>systemctl enable httpd</li>
 <li>systemctl  start httpd</li>
@@ -68,7 +68,7 @@ Build again once and see any errors<br>
 Before change in github the website looks<br>
 Lets make some change in git hub code the next build will perform automatically hence the CD performed here for CI.<br>
 The auto build is done after one minute because the poll scm is * * * * * it means for  change of the code in github after one minute it reflects to the website.<br>
-The change in website after auto bulid:<br>
+The change in website after auto bulid<br>
 </p>
 </h3>
  
