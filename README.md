@@ -15,15 +15,15 @@ Excute the following commands<p>
 
 <ul>
 <li>sudo yum update</li>
-<li>sudo -i ( For switching into root user )<li>
-<li>sudo wget -O /etc/yum.repos.d/jenkins.repo \ https://pkg.jenkins.io/redhat-stable/jenkins.repo<li>
-<li>sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key<li>
-<li>amazon-linux-extras install java-openjdk11<li>
-<li>java --version<li>
-<li> yum install jenkins -y<li>
-<li>systemctl enable Jenkins<li>
-<li>systemctl start Jenkins<li>
-<li>systemctl status Jenkins<li>
+<li>sudo -i ( For switching into root user )</li>
+<li>sudo wget -O /etc/yum.repos.d/jenkins.repo \ https://pkg.jenkins.io/redhat-stable/jenkins.repo</li>
+<li>sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key</li>
+<li>amazon-linux-extras install java-openjdk11</li>
+<li>java --version</li>
+<li> yum install jenkins -y</li>
+<li>systemctl enable Jenkins</li>
+<li>systemctl start Jenkins</li>
+<li>systemctl status Jenkins</li>
 </ul>
   
   
