@@ -1,6 +1,13 @@
+<html>
+<head>
+	<title>CI-CD Jenkins using HTTPD</title>
+<style>
 ul.{
 	 list-style-type: square;
 } 
+</style>
+</head>
+<body>
 
 <h1>CI-CD THROUGH JENKINS USING HTTPD</h1>
 
@@ -71,4 +78,6 @@ The auto build is done after one minute because the poll scm is * * * * * it mea
 The change in website after auto bulid<br>
 </p>
 </h3>
+</body>
+</html>
  
